@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:todos/stores/app.store.dart';
 
 class NavBar extends StatelessWidget {
+//  final store = Provider.of<AppStore>(context);
+//  final controller
 
   @override
   Widget build(BuildContext context) {
